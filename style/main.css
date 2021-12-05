@@ -15,6 +15,9 @@
 .large-img {
     width: 99vw;
 }
+.navbar-brand {
+    border-radius: 50%;
+}
 
 h2 {
     padding: 5px;
